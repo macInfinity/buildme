@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: false
-          tags: ripc/buildme:latest
+          # tags: ripc/buildme:latest
